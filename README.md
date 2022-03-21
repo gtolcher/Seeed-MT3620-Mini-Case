@@ -1,2 +1,14 @@
 # Seeed-MT3620-Mini-Case
-Simple Case for the Seeed MT3620 Mini dev kit (Azure Sphere)
+
+Simple Case for the Seeed MT3620 Mini Dev Board (Azure Sphere)
+
+This is a pretty typical acrylic sandwich case, similar to what you'd expect for a mechanical keyboard. I put this together over a couple hours so that it would be able to safely live on my desk. As it was a quick project the measurements are serviceable but not exact, especially around the header pins. There are cutouts for the jumpers, battery and aforementioned pins.
+
+Quick BoM:
+   • 3mm acrylic for the case sides (sides can be 3D printed if desired)
+   • 4x - M2 x 20mm socket head screws
+   • 4x - M2 nuts
+   • 8x - 3D printed 5mm spacers (file included)
+   
+
+   

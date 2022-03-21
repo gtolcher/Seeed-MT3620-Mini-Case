@@ -10,5 +10,5 @@ Quick BoM:<br/>
    • 4x - M2 nuts<br/>
    • 8x - 3D printed 5mm spacers (file included)<br/>
    
-
+I've uploaded the original Fusion 360 CAD files. While they are messy, I wanted to include them so people can freely modify / improve them. If there is enough interest in the project, I'll clean up the constraints, tighten up the measurements, and add acrylic snap fit feet.
    

@@ -6,7 +6,7 @@ This is a pretty typical acrylic sandwich case, similar to what you'd expect for
 
 Quick BoM:<br/>
    • 3mm acrylic for the case sides (sides can be 3D printed if desired)<br/>
-   • 4x - M2 x 20mm socket head screws<br/>
+   • 4x - M2 x 20mm socket head screws (M2 used for clearance around solder pads & components)<br/>
    • 4x - M2 nuts<br/>
    • 8x - 3D printed 5mm spacers (file included)<br/>
    
